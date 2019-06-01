@@ -4,7 +4,7 @@ cmd="git --git-dir=$HOME/.dots/ --work-tree=$HOME"
 
 case $1 in
 update)
-    $cmd commit -m "Update dotfiles"; return ;;
+    $cmd commit -m "Update dotfiles"; exit ;;
 lock)
     shift; cmd="$cmd update-index --assume-unchanged" ;;
 unlock)
