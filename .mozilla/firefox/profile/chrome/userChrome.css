@@ -1,0 +1,21 @@
+/* Hide regular tabs */
+#TabsToolbar {
+  visibility: collapse !important;
+}
+
+/* Change navigation bar color */
+#nav-bar {
+  background-image: none !important;
+  background-color: #333333 !important;
+}
+
+/* Blend address bar with navigation bar */
+#urlbar {
+  background-color: #333333 !important;
+  border-color: transparent !important;
+}
+
+/* Hide dark line under navigation-toolbox */
+#navigator-toolbox::after {
+  border-bottom: 1px solid transparent !important;
+}
