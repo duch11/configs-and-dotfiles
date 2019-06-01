@@ -1,6 +1,6 @@
 [core]
 	pager = less
-	editor = vi
+	editor = nano
 
 [user]
 	name = wsdfhjxc
