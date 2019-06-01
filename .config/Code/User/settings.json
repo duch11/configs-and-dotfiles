@@ -1,0 +1,11 @@
+{
+    "window.menuBarVisibility": "toggle",
+    "telemetry.enableCrashReporter": false,
+    "telemetry.enableTelemetry": false,
+    "gitlens.advanced.telemetry.enabled": false,
+    "workbench.startupEditor": "newUntitledFile",
+    "editor.fontFamily": "'Roboto Mono', 'monospace', monospace, 'Droid Sans Fallback'",
+    "editor.fontSize": 12.5,
+    "debug.console.fontSize": 12.5,
+    "terminal.integrated.fontSize": 12.5
+}
