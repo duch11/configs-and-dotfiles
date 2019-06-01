@@ -1,0 +1,7 @@
+[core]
+	pager = less
+	editor = vi
+
+[user]
+	name = wsdfhjxc
+	email = wsdfhjxc@o2.pl
