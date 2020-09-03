@@ -1,0 +1,23 @@
+{
+	"atomic_save": true,
+	"auto_complete_commit_on_tab": true,
+	"auto_complete_cycle": true,
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/10% Too Dull for My Tastes Color Scheme/scotchy.tmTheme",
+	"draw_centered": false,
+	"enable_tab_scrolling": false,
+	"font_size": 18,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+	],
+	"indent_guide_options":
+	[
+		"draw_active"
+	],
+	"line_padding_bottom": 5,
+	"line_padding_top": 5,
+	"show_line_endings": true,
+	"theme": "Adaptive.sublime-theme"
+}
